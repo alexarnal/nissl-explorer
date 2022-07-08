@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/alexarnal/nissl-explorer/branch/main/graph/badge.svg)](https://codecov.io/gh/alexarnal/nissl-explorer)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/nissl-explorer)](https://napari-hub.org/plugins/nissl-explorer)
 
-A ptool to visualize patters ns in Nissl-stained histology, particularly built for rat brain coronal sections.
+A tool to visualize patterns in Nissl-stained histology, particularly built for rat brain coronal sections.
 
 ----------------------------------
 
